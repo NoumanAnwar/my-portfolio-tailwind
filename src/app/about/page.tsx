@@ -19,12 +19,12 @@ From fragrant jasmine and basmati to hearty brown rice, our diverse range of pro
 
 Join us on a journey of flavor and tradition, and discover why Al Falah Rice Int is the choice for rice lovers everywhere.
 
-Feel free to modify any part to better fit your company’s vision and values!
+Feel free to modify any part to better fit your company vision and values!
 
         </p>  
     <div>
      
     </div>
     </div>
-    );
-    }
+    )
+    };

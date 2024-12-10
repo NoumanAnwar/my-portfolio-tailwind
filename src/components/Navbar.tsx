@@ -1,7 +1,7 @@
   
-import React from 'react'
-import { AiOutlineMenu} from 'react-icons/ai'
-import Link from 'next/link'
+import React from 'react';
+import { AiOutlineMenu} from 'react-icons/ai';
+import Link from 'next/link';
 
 const Navbar = () => {
   return (
@@ -25,7 +25,6 @@ const Navbar = () => {
         
       </div>
     </div>
-  )
-}
-
+  );
+};
 export default Navbar

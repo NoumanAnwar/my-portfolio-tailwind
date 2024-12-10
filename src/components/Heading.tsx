@@ -1,4 +1,4 @@
-import React from 'react'
+import React from "react";
 
 
 interface propsType {   
@@ -11,7 +11,7 @@ const Heading:React.FC<propsType> = ({title}) => {
     <p className='border-b-4 inline-block pb-2'>{title} </p>
       
     </div>
-  )
-}
+  );
+};
 
 export default Heading
